@@ -1,4 +1,4 @@
-# Lottery with Smart Contract
+# :moneybag: Lottery with Smart Contract
 
 The main objective of the project is to be able to make a lottery in which it is totally decentralized. 
 
