@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'under opera about entry remove office pride blossom pair school rabbit fruit',
-  'https://goerli.infura.io/v3/57affca6ff5841759b55794cf23c8a8c'
+  'SEED PHRASE HERE',
+  'INFURA GOERLI LINK HERE'
 );
 const web3 = new Web3(provider);
 
