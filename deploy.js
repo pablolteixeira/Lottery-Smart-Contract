@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'SEED PHRASE HERE',
-  'INFURA GOERLI LINK HERE'
+  'A',
+  'B'
 );
 const web3 = new Web3(provider);
 
